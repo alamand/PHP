@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        $var = "006";
+        $var = "008";
         echo $var;
         ?>
     </body>
